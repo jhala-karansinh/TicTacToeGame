@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="JayMataji">Jay Mataji</string>
+    <string name="welcomenote">Let\'s Play Tic Tac Toe</string>
+</resources>
